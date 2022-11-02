@@ -5,9 +5,33 @@ description: Traditional IT Skills
 image: assets/images/codeexample.jpg
 nav-menu: true
 ---
+<h4>Highlights</h4>
+<div class="table-wrapper">
+  <table>
+    <tbody>
+      <tr>
+        <td>Scripting Languages</td>
+        <td>Python, Shell, Powershell</td>
+      </tr>
+      <tr>
+        <td>Server Administration Tools</td>
+        <td>Ansible, CFEngine</td>
+      </tr>
+        <tr>
+        <td>Tools Managed</td>
+        <td>HyperV, VSphere, JIRA, Confluence, Kaspersky AV, Gitlab, Splunk,
+        Elastic, Cribl, Bind, nginx, Apache httpd, HAProxy, MySQL/MariaDB</td>
+      </tr>
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+    </tbody>
+  </table>
+</div>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+Before getting into data engineering I was a Systems Administrator. I was responsible for server administration, database administration, basic website building, security tools management, and more. Managing a large on premise  Splunk environment is almost like running a small data center, where hundreds of bare metal servers need to communicate.  
+  
+This broad skill base helps me talk to stakeholders across the IT organisation  
+
+<ul class="actions">
+<li><a href="/" class="button next scrolly">Back</a></li>
+</ul>

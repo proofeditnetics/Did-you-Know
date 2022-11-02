@@ -6,10 +6,16 @@ image: assets/images/resumestock.jpg
 nav-menu: true
 ---
 
+<ul class="actions">
+<li><a href="/" class="button next scrolly">Back</a></li>
+</ul>
+
 ## Certifications
 - Splunk Architect II (6.5)
 - Cribl CCOE Admin 
 - Certified Kubernetes Application Developer
+
+<hr class="major" />
 
 ## 2018, 2022 Lumsdaine Consulting - Cork 
 - Advise clients on how to improve insights and reduce cost of existing Splunk installations
@@ -18,6 +24,8 @@ nav-menu: true
 Security
 - Work with Site Reliability teams to build glass tables in ITSI
  
+ <hr class="major" />
+
 ## Dec 2021 - Jul 2022 Dell - Cork 
 - Technical lead for high search volume SRE Splunk Cluster, utilising ITSI and SOAR 
 - Architected indexer clusters to support 50TB/day ingestion with Enterprise License Agreement 
@@ -26,6 +34,8 @@ Security
 - Helped Splunk identify and fix memory leak in 8.x  
 - Set up Dynatrace monitoring of Splunk  
 - Performed License and Hardware analysis, and budget presentations
+
+<hr class="major" />
 
 ## 2015 - 2021 Qualcomm - Cork 
 - Technical lead for a 30TB/day Splunk 8.x cluster 
@@ -42,12 +52,15 @@ Security
     - Splunk Universal Forwarder on approximately 100,000 hosts
     - Various apps to pull from third party APIs and unusual sources
 
+<hr class="major" />
+
 ## 2015 Xanadu Consultancy - Cork
 - Managed the infrastructure for a high stakes betting exchange
     - Managed hypervisors and server for betting exchange website
     - Managed multi site replicated MySQL databases
     - Set up Elastic + Logstash + Kibana based log analytics platform
 
+<hr class="major" />
 
 ## 2011-2014  Horseshoe Lane Services / Phoenix HSL - Sydney 
 
@@ -56,9 +69,14 @@ Security
 - Managed two factor authentication service (SSL VPN with SecurID two factor authentication)
 - Managed multi site PBX (both SIP and IAX2 trunking) with FreePBX
 
+<hr class="major" />
 
 ## Other Roles 
 - 2010 Truffles café , Sydney:  Owner
 - 2006 - 2010 Greenwich Corporate Finance, Sydney: Project Manager 
 - 2004 – 2005 Helaba International, Dublin : Credit Administration Officer
 - 2002 – 2004   Commsec Margin Lending, Sydney: Redemptions Officer 
+
+<ul class="actions">
+<li><a href="/" class="button next scrolly">Back</a></li>
+</ul>
