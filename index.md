@@ -7,7 +7,3 @@ image: null
 author: null
 show_tile: false
 ---
-
-Click on any of the tiles above for more details about my areas of expertise. 
-If you think I might be a good for your team then let's connect! See below for all my contact details.  
-
