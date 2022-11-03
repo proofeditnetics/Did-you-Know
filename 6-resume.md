@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Resume
+permalink: /resume/
 description: Traditional Resume Format
 image: assets/images/resumestock.jpg
 nav-menu: true

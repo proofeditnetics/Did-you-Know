@@ -1,7 +1,8 @@
 ---
 title: Observability Pipelines (Cribl)
 layout: post
-description: 'Building '
+permalink: /cribl/
+description: 'Building the future of Observability'
 image: assets/images/criblflow.jpg
 nav-menu: true
 ---

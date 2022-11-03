@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 😎
+title: 
 landing-title: Hi, I'm JP Lumsdaine<br \> I want to help you solve your data challenges.
 description: null
 image: null

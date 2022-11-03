@@ -7,7 +7,7 @@ description: The future of Observability is having all your data available befor
 #url: https://jp.60woodvale.com
 author: JP Lumsdaine
 #street_address: 
-#city: 
+city: Cork 
 #state: 
 #zip_code: 
 country: Ireland
@@ -24,7 +24,6 @@ tiles-count: 6
 socials:
   GitHub: https://github.com/hawmps
   LinkedIn: https://www.linkedin.com/in/lumsdaine
-  Twitter: https://twitter.com/andrewbanchich
 
 
 # build settings

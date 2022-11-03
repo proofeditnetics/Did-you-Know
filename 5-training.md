@@ -3,6 +3,7 @@ layout: post
 title: Training & Mentoring
 description: Empowering users and colleagues
 image: assets/images/training.jpg
+permalink: /training/
 nav-menu: true
 ---
 
