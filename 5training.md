@@ -1,13 +1,18 @@
 ---
 layout: post
 title: Training & Mentoring
-description: Lorem ipsum dolor est
+description: Empowering users and colleagues
 image: assets/images/training.jpg
 nav-menu: true
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+You can have the best tooling money can buy, but if people are not empowered to use it then you have wasted your money. I love teaching users how to get the most out of tools. I also love to help my colleagues with their challenges, nothing makes life easier than a high performing team! 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
+<p><span class="image left"><img src="{% link assets/images/trainingslides.jpg %}" alt="" /></span>I have created bespoke training courses to target specific users of the Splunk platform. I'm happy doing training sessions one to one or to an audience of hundreds. I can deliver these sessions either in person or remotely depending on the audience. </p>
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+As a technical lead I have mentored my more junior colleagues on advanced Splunk topics.
+
+
+<ul class="actions">
+<li><a href="/" class="button next scrolly">Back</a></li>
+</ul>

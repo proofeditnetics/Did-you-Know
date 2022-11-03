@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Splunk Architecture & Administration
-description: Log Analytics
+description: '| foreach * [eval <<FIELD>>]'
 image: assets/images/splunksearch.jpg
 nav-menu: true
 ---
@@ -32,10 +32,10 @@ nav-menu: true
       </tr>
             <tr>
         <td>Data Sources</td>
-        <td>Splunk Universal Forwarder, AWS S3 (+ SQS), AWS Kinesis, Azure Eventhubs, Databases, Kubernetes, Syslog, Linux & Windows Servers, IPMI data </td>
+        <td>Splunk Universal Forwarder, AWS S3 (+ SQS), AWS Kinesis, Azure Eventhubs, Oracle, MSSQL, MYsQL Databases, Kubernetes and contaner logs, Syslog, Linux & Windows Servers performance data, IPMI data, Carbon Black Event data </td>
       </tr>
             <tr>
-        <td>Highest Certification</td>
+        <td>Certifications</td>
         <td>Splunk Architect II (v 6.6), Splunk Trust (2019) </td>
       </tr>
     </tbody>
@@ -44,16 +44,23 @@ nav-menu: true
 <hr class="major" />  
 I have been a Splunk Consultant, Architect, Tech Lead, and Administrator for 7 years. Splunk is still the most cost effective tool for analysis of large sets of unstructured and semi-structured data.
 
-I have architected, deployed, and administered Splunk installations from single instance trial license setups to multi site clusters ingesting tens of terabytes a day from versions 6.x -> 9.x. I have managed all of Splunks premium add ons such as Splunk Enterprise Security (ES), Splunk ITSI, and Splunk SOAR (formerly Phantom)
+I have architected, deployed, and administered Splunk installations including
+ - single instance environments with Enterprise Security for start up security teams 
+ - single instance  to multi site clusters ingesting tens of terabytes a day from versions 6.x -> 
+ - Expanding a production Splunk environment from a 10 indexer cluster to two 120 node indexers clusters with 3 Search head clusters, running ITSI and Enterprise Security 
+ - Architecting the expansion of a 15/TB a day cluster to accomodate 50TB/Day, with multi site availabilty and able to accomodate 5x user burst capacity.      
+ - Performance tuning and installation of of ITSI and Splunk Enterprise Security 
+
 
 A self service platform like Splunk can become the victim of its own success as its popularity with the organisation grows. I can identify what parts of a Splunk cluster are poorly utilized, and work with customers to optimise data ingestion and queries.   
 
-I have worked with threat detection teams, silicon engineers, software developers, business compliance teams, manufacturing IT departments, network engineers,  AIOps, DevOps, Secops and GitOps teams to design and optimise queries and dashboards. 
+I have worked with threat detection teams, silicon engineers, software developers, business compliance teams, manufacturing IT departments, network engineers,  AIOps, DevOps, and Secops teams to design and optimise queries and dashboards. 
 
-Complex queries on semistructured used to be a specialty of mine, but more recently I have encouraged the use of observability pipelines to transform unstructured data into structured logs or even metrics. 
+<p><span class="image left"><img src="{% link assets/images/complexquery.jpg %}" alt="" /></span>Complex queries on semistructured used to be a specialty of mine, but more recently I have encouraged the use of observability pipelines to transform unstructured data into structured logs or even metrics. </p>
 
 I am an experienced technical lead and can lead and mentor junior Splunk administrators and developers, as well present roadmaps and budget plans to management. 
 
 <ul class="actions">
 <li><a href="/" class="button next scrolly">Back</a></li>
 </ul>
+
