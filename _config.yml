@@ -1,3 +1,6 @@
+plugins:
+  - jekyll-seo-tag
+
 # site settings
 title: JP Lumsdaine
 subtitle: Data Engineer
@@ -44,5 +47,3 @@ exclude:
 - CONTRIBUTING.md
 - README.md 
 
-plugins:
-  - jekyll-seo-tag
