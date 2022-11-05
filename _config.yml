@@ -34,7 +34,7 @@ defaults:
     values:
       image: /assets/images/complexquery.png
 
-
+google_analytics: G-NBHM2JD08C
 # build settings
 markdown: kramdown
 
