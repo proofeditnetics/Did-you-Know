@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Resume
+title: Work History
 permalink: /resume/
 description: Traditional Resume Format
 image: assets/images/resumestock.jpg
 nav-menu: true
 ---
+My work history with some career highlights from each role.  
 
 <ul class="actions">
 <li><a href="/" class="button next scrolly">Back</a></li>
@@ -19,6 +20,7 @@ nav-menu: true
 <hr class="major" />
 
 ## 2018, 2022 Lumsdaine Consulting - Cork 
+
 - Advise clients on how to improve insights and reduce cost of existing Splunk installations
 - Managed procurement and installation of Splunk Enterprise Security and ITSI
 - Worked with Security teams to implement threat detection use cases in Enterprise
@@ -72,7 +74,8 @@ Security
 
 <hr class="major" />
 
-## Other Roles 
+## Non IT Roles 
+   
 - 2010 Truffles café , Sydney:  Owner
 - 2006 - 2010 Greenwich Corporate Finance, Sydney: Project Manager 
 - 2004 – 2005 Helaba International, Dublin : Credit Administration Officer
