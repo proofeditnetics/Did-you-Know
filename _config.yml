@@ -2,19 +2,19 @@ plugins:
   - jekyll-seo-tag
 
 # site settings
-title: JP Lumsdaine
-subtitle: Data Engineer
-email: jp@60woodvale.com
-description: The future of Observability is having all your data available before you know what questions to ask.<br /> 
+title: Dr Dihia 
+subtitle: Learning and Academic Advisor| Social Sciences|Lecturer Editing and Proofreading Specialist| Postcolonial/Decolonial Researcher
+email: chouggardihia@outlook.fr
+description:Elevate Your Work, Leave a Lasting Impression!.<br /> 
 #baseurl: "/" # the subpath of your site, e.g. /blog
-url: https://jp.60woodvale.com
-author: JP Lumsdaine
+url: coming soon
+author: Dr Dihia
 #street_address: 
-city: Cork 
+city: 
 #state: 
 #zip_code: 
-country: Ireland
-phone: +353 87 185 4649
+country: United Kingdom
+phone: coming soon
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -25,8 +25,8 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/hawmps
-  LinkedIn: https://www.linkedin.com/in/lumsdaine
+  GitHub: 
+  LinkedIn: https://www.linkedin.com/in/dr-dihia-chougar-513028a6/
 
 defaults:
   - scope:
