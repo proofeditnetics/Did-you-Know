@@ -1,7 +1,7 @@
 ---
 layout: home
 title: 
-landing-title: Hi, I'm JP Lumsdaine<br \> I want to help you solve your data challenges.
+landing-title: Hi, I am Dihia<br \> I would like to help you refine your written content to perfection, ensuring clarity, coherence, and accuracy. 
 description: null
 image: null
 author: null
