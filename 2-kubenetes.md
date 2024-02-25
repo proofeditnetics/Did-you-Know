@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Kubernetes, GitOps, and the Cloud
+title: Learning and Academic Advising
 permalink: /devops/
-description: Contemporary DevOps Skills 
+description: Academic Advisor Expertise 
 image: assets/images/kubegitops.jpg
 nav-menu: true
 ---
