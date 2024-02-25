@@ -1,8 +1,8 @@
 ---
-title: Observability Pipelines (Cribl)
+title: Training and Mentoring
 layout: post
 permalink: /cribl/
-description: 'Building the future of Observability'
+description: 'Nurturing Critical Minds'
 image: assets/images/criblflow.jpg
 nav-menu: true
 ---
