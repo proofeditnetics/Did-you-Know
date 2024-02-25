@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Splunk 
+title: Proofreading and Editing
 permalink: /splunk/
-description: 'Architecture & Administration'
+description: 'Academic and Research Excellence'
 image: assets/images/splunksearch.jpg
 nav-menu: true
 ---
