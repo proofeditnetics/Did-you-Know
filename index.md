@@ -1,7 +1,7 @@
 ---
 layout: home
 title: 
-landing-title: Hi, I am Dihia<br \> Would you like some help refining your written content to perfection: Clarity, Coherence, Accuracy.
+landing-title: Hi, I am Dihia<br \> Would you like some help refining your written content to perfection
 description: null
 image: null
 author: null
