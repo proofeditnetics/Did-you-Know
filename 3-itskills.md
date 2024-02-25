@@ -1,8 +1,8 @@
 ---
 layout: post
-title: IT Systems Administration 
+title: Research 
 permalink: /sysadmin/
-description: Broad IT Skillset
+description: Postcolonial/Decolonial, Literature, and Performance
 image: assets/images/codeexample.jpg
 nav-menu: true
 ---
