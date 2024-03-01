@@ -12,19 +12,17 @@ nav-menu: true
   
 </div>
 <hr class="major" />  
-I have been a Splunk Consultant, Architect, Tech Lead, and Administrator for 7 years. Splunk is still the most cost effective tool for analysis of large sets of unstructured and semi-structured data.
 
-I have architected, deployed, and administered Splunk installations including:
- - single instance environments with Enterprise Security for start up security teams
- - single instance  to multi site clusters ingesting tens of terabytes a day
- - Expanding a production Splunk environment from a 10 indexer cluster to two 120 node indexers clusters with 3 Search head clusters, running ITSI and Enterprise Security
- - Architecting the expansion of a 15/TB a day cluster to accommodate 50TB/Day, with multi site availability and able to accommodate 5x user burst capacity      
- - Performance tuning and installation of of ITSI and Splunk Enterprise Security 
+I meticulously review content from initial drafts to final copies, focusing on identifying basic proofreading issues such as grammar, typos, and context errors. This includes reviewing final drafts of statements of purpose, PhD research proposals, research articles, and theses for students at the Bachelor's, Master's, and PhD levels, ensuring accuracy, brevity, clarity, and adherence to editorial guidelines. I monitor the consistency of all materials within a designated style and establish guidelines as needed. I handle other essential tasks such as content research, development, and management to ensure the overall quality and coherence of the content. 
 
+1. Proofreading:
+The proofreading service meticulously checks for grammatical, punctuation, spelling, typographical, and other errors in your written content. It ensures that your work adheres to high linguistic standards.
+2. Editing:
+The editing service encompasses all aspects of proofreading while focusing on enhancing the overall clarity and coherence of your writing. It addresses consistency, accuracy, flow of thoughts, structural coherence, and adherence to English logic.
 
-A self service platform like Splunk can become the victim of its own success as its popularity with the organization grows. I can identify what parts of a Splunk cluster are poorly utilized, and work with customers to optimize data ingestion and queries.   
+My editing service does not involve generating new content or making substantive additions. Instead, I aim to refine and elevate the original ideas, ensuring they
+are expressed fluently and logically within the context of English language conventions.
 
-I have worked with threat detection teams, silicon engineers, software developers, business compliance teams, manufacturing IT departments, network engineers,  AIOps, DevOps, and Secops teams to design and optimize queries and dashboards. 
 
 <p><span class="image left"><img src="{% link assets/images/complexquery.jpg %}" alt="" /></span>Complex queries on semi-structured used to be a specialty of mine, but more recently I have encouraged the use of observability pipelines to transform unstructured data into structured logs or even metrics. </p>
 
