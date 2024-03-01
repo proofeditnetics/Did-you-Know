@@ -23,6 +23,16 @@ The editing service encompasses all aspects of proofreading while focusing on en
 My editing service does not involve generating new content or making substantive additions. Instead, I aim to refine and elevate the original ideas, ensuring they
 are expressed fluently and logically within the context of English language conventions.
 
+3. Returned Documents:
+Upon completion of my services, I provide two versions of the document:
+- Track Changes Document:
+o This version includes comments and all modifications made during the editing
+process.
+o It allows you to review the changes and understand the improvements made.
+- Clean Form Document:
+o The clean form is the ready-to-submit version.
+o All edits and enhancements have been incorporated seamlessly.
+
 
 <p><span class="image left"><img src="{% link assets/images/complexquery.jpg %}" alt="" /></span>Complex queries on semi-structured used to be a specialty of mine, but more recently I have encouraged the use of observability pipelines to transform unstructured data into structured logs or even metrics. </p>
 
