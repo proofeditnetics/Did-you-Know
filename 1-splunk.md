@@ -34,9 +34,6 @@ o The clean form is the ready-to-submit version.
 o All edits and enhancements have been incorporated seamlessly.
 
 
-<p><span class="image left"><img src="{% link assets/images/complexquery.jpg %}" alt="" /></span>Complex queries on semi-structured used to be a specialty of mine, but more recently I have encouraged the use of observability pipelines to transform unstructured data into structured logs or even metrics. </p>
-
-I am an experienced technical lead and can lead and mentor junior Splunk administrators and developers, as well present roadmaps and budget plans to management. 
 
 <ul class="actions">
 <li><a href="/" class="button next scrolly">Back</a></li>
