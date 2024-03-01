@@ -7,15 +7,9 @@ image: assets/images/criblflow.jpg
 nav-menu: true
 ---
 
-Making the most of observability data requires more than one analytics tool.
+I teach students at various levels, delivering engaging and inspiring online lessons and learning activities to facilitate effective learning and achievement. I integrate appropriate digital technologies into teaching and assessment methods to enhance value, efficiency, and student engagement, while also adjusting and adapting content to accommodate diverse student needs, with a specific emphasis on promoting diversity and inclusivity. Collaborating with lecturer, I strive to enhance students' experience through innovative online teaching methods and active monitoring of student engagement. Additionally, I administer module examinations and various forms of assessment, including marking, providing feedback, and participating in moderation and standardization meetings. I maintain accurate and up-to-date records of student attendance and performance, and actively participate in relevant administration and organizational tasks such as registering student attendance, data analysis, data visualization, and report writing. Furthermore, I oversee the onboarding process for new staff members, ensuring their thorough understanding of relevant policies and procedures to maintain high standards of teaching.
 
-Observability pipelines, like traditional data warehouse pipelines, provide a way for Observability teams to control and shape data, and manage data coming from cloud and container platforms.
-
-Cribl is the most exciting tool in this space, as it provides the best pathway from legacy SIEM tools to a future where data is readily available at sensible price.
-
-I am a certified CCOE Admin
-
-I have set up  Proof of Concepts with Cribl, routing and reducing datasets up to 5TB/day
+I instruct students in the principles and application of logical reasoning and critical thinking skills. Responsibilities typically include designing and delivering engaging lectures, seminars, and workshops to undergraduate and/or graduate students. I guide students in analyzing arguments, identifying fallacies, and evaluating evidence to develop sound reasoning skills. I develop course materials, assessments, and assignments to facilitate learning outcomes, provide constructive feedback to cultivate students' ability to think critically, reason effectively, and make informed decisions across various academic disciplines and real-world contexts.
 
 
 
