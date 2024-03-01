@@ -9,38 +9,7 @@ nav-menu: true
 
 <h4>Highlights</h4>
 <div class="table-wrapper">
-  <table>
-    <tbody>
-      <tr>
-        <td>Role</td>
-        <td>Architect and Technical Lead</td>
-      </tr>
-      <tr>
-        <td>Largest Infrastructure </td>
-        <td>240 indexers in 3 sites, 49 Search Heads in 3 Clusters </td>
-      </tr>
-      <tr>
-        <td>Splunk Versions</td>
-        <td>6.x -> 9.x</td>
-      </tr>
-      <tr>
-        <td>Peak Daily Ingest</td>
-        <td>30TB/Day</td>
-      </tr>
-      <tr>
-        <td>Addons Managed</td>
-        <td>Splunk Enterprise Security, Splunk ITSI, Splunk SOAR </td>
-      </tr>
-            <tr>
-        <td>Data Sources</td>
-        <td>Splunk Universal Forwarder, AWS S3 (+ SQS), AWS Kinesis, Azure Eventhubs, Oracle, MSSQL, MYsQL Databases, Kubernetes and contaner logs, Syslog, Linux & Windows Servers performance data, IPMI data, Carbon Black Event data </td>
-      </tr>
-            <tr>
-        <td>Certifications</td>
-        <td>Splunk Architect II (v 6.6), Splunk Trust (2019) </td>
-      </tr>
-    </tbody>
-  </table>
+  
 </div>
 <hr class="major" />  
 I have been a Splunk Consultant, Architect, Tech Lead, and Administrator for 7 years. Splunk is still the most cost effective tool for analysis of large sets of unstructured and semi-structured data.
