@@ -26,12 +26,12 @@ are expressed fluently and logically within the context of English language conv
 3. Returned Documents:
 Upon completion of my services, I provide two versions of the document:
 - Track Changes Document:
-o This version includes comments and all modifications made during the editing
+ This version includes comments and all modifications made during the editing
 process.
-o It allows you to review the changes and understand the improvements made.
+ It allows you to review the changes and understand the improvements made.
 - Clean Form Document:
-o The clean form is the ready-to-submit version.
-o All edits and enhancements have been incorporated seamlessly.
+  The clean form is the ready-to-submit version.
+  All edits and enhancements have been incorporated seamlessly.
 
 
 
