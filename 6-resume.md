@@ -61,15 +61,6 @@ Turkish
 - Conference Administrative Assistant: La Littérature de L’oralité et le Conte Populaire: De la Transmission Culturelle à la Construction Identitaire (University of Tizi-Ouzou, Algeria). 
 - Conference Coordinator, Chair and Presenter: The Berber Spring (University of Tizi-Ouzou, Algeria). 
 
-<hr class="major" />
-
-## 
-
-
-<hr class="major" />
-
-## 
-    
 
 <ul class="actions">
 <li><a href="/" class="button next scrolly">Back</a></li>
