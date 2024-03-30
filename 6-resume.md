@@ -54,29 +54,22 @@ Turkish
 
 <hr class="major" />
 
-## 2015 Xanadu Consultancy - Cork
-- Managed the infrastructure for a high stakes betting exchange
-    - Managed hypervisors and server for betting exchange website
-    - Managed multi site replicated MySQL databases
-    - Set up Elastic + Logstash + Kibana based log analytics platform
+## Contributions
+- Ventana Conference 5 co-organiser (University of York)
+- Ventana Conference 4 Chair: Decolonial Dialogues from, within, and beyond the Global Margins (University of York).
+- Co-Founder of Book WormTH (Reading Group).
+- Conference Administrative Assistant: La Littérature de L’oralité et le Conte Populaire: De la Transmission Culturelle à la Construction Identitaire (University of Tizi-Ouzou, Algeria). 
+- Conference Coordinator, Chair and Presenter: The Berber Spring (University of Tizi-Ouzou, Algeria). 
 
 <hr class="major" />
 
-## 2011-2014  Horseshoe Lane Services / Phoenix HSL - Sydney 
+## 
 
-- Managed approx. 300 virtual Linux (Mainly Red Hat 5.6, with some Ubuntu) and Windows servers using vSphere, across 6 international data centres
-- Responsible for internal security compliance and monitoring of database and networking access controls
-- Managed two factor authentication service (SSL VPN with SecurID two factor authentication)
-- Managed multi site PBX (both SIP and IAX2 trunking) with FreePBX
 
 <hr class="major" />
 
-## Non IT Roles 
-   
-- 2010 Truffles café , Sydney:  Owner
-- 2006 - 2010 Greenwich Corporate Finance, Sydney: Project Manager 
-- 2004 – 2005 Helaba International, Dublin : Credit Administration Officer
-- 2002 – 2004   Commsec Margin Lending, Sydney: Redemptions Officer 
+## 
+    
 
 <ul class="actions">
 <li><a href="/" class="button next scrolly">Back</a></li>
