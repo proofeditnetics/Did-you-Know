@@ -2,7 +2,7 @@
 layout: post
 title: Decolonial AI
 description: Inclusive Teaching 
-image: assets/images/training.jpg
+image: ../assets/images/training.jpg
 permalink: /training/
 nav-menu: true
 ---
