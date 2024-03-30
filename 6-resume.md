@@ -3,7 +3,7 @@ layout: post
 title: Work History
 permalink: /resume/
 description: Traditional Resume Format
-image: assets/images/resumestock.jpg
+image: ../assets/images/resumestock.jpg
 nav-menu: true
 ---
 A more traditional CV/Profile can be provided upon request. In the meantime, check out some highlights! 
