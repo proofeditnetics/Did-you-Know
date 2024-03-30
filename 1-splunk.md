@@ -3,7 +3,7 @@ layout: post
 title: Proofreading and Editing
 permalink: /splunk/
 description: 'Academic and Research Excellence'
-image: assets/images/splunksearch.jpg
+image: ../assets/images/editing.jpeg
 nav-menu: true
 ---
 
