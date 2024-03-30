@@ -3,7 +3,7 @@ layout: post
 title: Research and Supervision
 permalink: /sysadmin/
 description: Postcolonial/Decolonial, Literature, and Performance
-image: assets/images/codeexample.jpg
+image: ../assets/images/research.jpeg
 nav-menu: true
 ---
 <h4>Highlights</h4>
