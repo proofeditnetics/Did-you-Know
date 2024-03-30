@@ -55,8 +55,8 @@ Turkish
 <hr class="major" />
 
 ## Contributions
-- Ventana Conference 5 co-organiser (University of York)
-- Ventana Conference 4 Chair: Decolonial Dialogues from, within, and beyond the Global Margins (University of York).
+- Ventana Conference 5 co-organiser: "Navigating Uncomfortable Contradictions: Decolonial Routes towards Pluriversality" (University of York)
+- Ventana Conference 4 Chair: "Decolonial Dialogues from, within, and beyond the Global Margins" (University of York).
 - Co-Founder of Book WormTH (Reading Group).
 - Conference Administrative Assistant: La Littérature de L’oralité et le Conte Populaire: De la Transmission Culturelle à la Construction Identitaire (University of Tizi-Ouzou, Algeria). 
 - Conference Coordinator, Chair and Presenter: The Berber Spring (University of Tizi-Ouzou, Algeria). 
