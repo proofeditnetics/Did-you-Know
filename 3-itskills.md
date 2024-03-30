@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Research and supervision
+title: Research and Supervision
 permalink: /sysadmin/
 description: Postcolonial/Decolonial, Literature, and Performance
 image: assets/images/codeexample.jpg
