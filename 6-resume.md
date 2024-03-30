@@ -6,54 +6,51 @@ description: Traditional Resume Format
 image: assets/images/resumestock.jpg
 nav-menu: true
 ---
-My work history with some career highlights from each role.  
+A more traditional CV/Profile can be provided upon request. In the meantime, check out some highlights! 
 
 <ul class="actions">
 <li><a href="/" class="button next scrolly">Back</a></li>
 </ul>
 
 ## Certifications
-- Splunk Architect II (6.5)
-- Cribl CCOE Admin 
-- Certified Kubernetes Application Developer
+- Generative AI in Higher Education (Kings college London).
+- Data Analysis (Bootcamp).
+- uCertify Certficate of Completion for Microsoft Excel 2019.
+- French Language olympiads award. 
+
 
 <hr class="major" />
 
-## 2018, 2022 Lumsdaine Consulting - Cork 
+## Education
 
-- Advise clients on how to improve insights and reduce cost of existing Splunk installations
-- Managed procurement and installation of Splunk Enterprise Security and ITSI
-- Worked with Security teams to implement threat detection use cases in Enterprise
-Security
-- Work with Site Reliability teams to build glass tables in ITSI
+University of Leeds, UK
+Doctor of Philosophy- PhD, English and Francophone Literature and Performance studies.
+
+University of Tizi-Ouzou, Algeria
+M.A. in Language and Culture of English-Speaking Countries, and Media.
+
+University of Tizi-Ouzou, Algeria
+B.A. in English Language, Literature and History.
  
  <hr class="major" />
 
-## Dec 2021 - Jul 2022 Dell - Cork 
-- Technical lead for high search volume SRE Splunk Cluster, utilising ITSI and SOAR 
-- Architected indexer clusters to support 50TB/day ingestion with Enterprise License Agreement 
-- Integrated Gitlab for managing Splunk configuration  
-- Reduced search load by 30%
-- Helped Splunk identify and fix memory leak in 8.x  
-- Set up Dynatrace monitoring of Splunk  
-- Performed License and Hardware analysis, and budget presentations
+## Professional Journey
+- Kaplan International Pathways
+- Conferencia Ventana.
+- MB Cybernetics LTD.
+- Servia Road PM Limited.
+
 
 <hr class="major" />
 
-## 2015 - 2021 Qualcomm - Cork 
-- Technical lead for a 30TB/day Splunk 8.x cluster 
-- Worked with user base of 7000, with 2000 monthly active users
-- Integrated and managed  premium apps such as ITSI, Enterprise Security and Phantom (Splunk SOAR)
-- Set up Cribl Logstream POV to get 50% data reduction (very similar to Splunk DSP) 
-- Onboarded several hundred different sourcetypes, with varying props and transform requirements
-- Worked with Security teams to enable company wide endpoint  Windows event logs collection  
-- Set up mass database auditing with dbconnect (1000 + databases)
-- Used multiple log transport systems for data ingest:
-    - AWS, Google Cloud and Azure logs via Kinesis, Kafka and Eventhub 
-    - Syslog-ng for networking devices and hosts unable to accommodate Universal Forwarder or HEC
-    - Splunk HTTP Event Collector
-    - Splunk Universal Forwarder on approximately 100,000 hosts
-    - Various apps to pull from third party APIs and unusual sources
+## Languages
+
+English
+French
+Berber
+Arabic
+German
+Turkish
 
 <hr class="major" />
 
