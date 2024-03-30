@@ -3,7 +3,7 @@ title: Training and Mentoring
 layout: post
 permalink: /cribl/
 description: 'Nurturing Critical Minds'
-image: assets/images/criblflow.jpg
+image: ../assets/images/training.jpg
 nav-menu: true
 ---
 
