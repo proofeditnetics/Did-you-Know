@@ -3,7 +3,7 @@ layout: post
 title: Learning and Academic Advising
 permalink: /devops/
 description: Academic Advisor Expertise 
-image: assets/images/kubegitops.jpg
+image: ../assets/images/advising.jpeg
 nav-menu: true
 ---
 <h4>Highlights</h4>
