@@ -39,18 +39,19 @@ B.A. in English Language, Literature and History.
 - Conferencia Ventana.
 - MB Cybernetics LTD.
 - Servia Road PM Limited.
+- UMMTO
 
 
 <hr class="major" />
 
 ## Languages
 
-English
-French
-Berber
-Arabic
-German
-Turkish
+- English
+- French
+- Berber
+- Arabic
+- German
+- Turkish
 
 <hr class="major" />
 
