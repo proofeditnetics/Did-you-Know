@@ -2,19 +2,19 @@ plugins:
   - jekyll-seo-tag
 
 # site settings
-title: Dr Dihia 
+title: Dr Dihia Chougar
 subtitle: Learning/Academic Advisor,Editor and Proofreader,Postcolonial/Decolonial Researcher
-email: chouggardihia@outlook.fr
+email: hello@drdihiachougar.com
 description: Elevate Your Work, Leave a Lasting Impression!.<br /> 
 #baseurl: "/" # the subpath of your site, e.g. /blog
-url: coming soon
-author: Dr Dihia
+url: drdihiachougar.com
+author: Dr Dihia Chougar
 #street_address: 
 #city: 
 #state: 
 #zip_code: 
 country: United Kingdom
-phone: coming soon
+phone: Grop me a line and I will call you back!
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -25,7 +25,7 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: 
+  #GitHub: 
   LinkedIn: https://www.linkedin.com/in/dr-dihia-chougar-513028a6/
 
 defaults:
