@@ -32,6 +32,7 @@ A more traditional CV/Profile can be provided upon request. In the meantime, che
     <img src="../assets/images/KAplan.jpeg" alt="Kaplan International Pathways" style="width: 80px; height: 80px; border-radius: 20%;" class="logo" />
     <img src="../assets/images/Ventana.jpeg" alt="Conferencia Ventana 4" style="width: 80px; height: 80px; border-radius: 20%;" class="logo" />
     <img src="../assets/images/Venta.jpeg" alt="Conferencia Ventana 5" style="width: 80px; height: 80px; border-radius: 20%;" class="logo" />
+    <img src="../assets/images/mbc.jpeg" alt="MB Cybernetics LTD" style="width: 80px; height: 80px; border-radius: 20%;" class="logo" />
     <img src="../assets/images/Austin.jpeg" alt="Servia Road PM Limited" style="width: 80px; height: 80px; border-radius: 20%;" class="logo" />
     <img src="../assets/images/UMMTO.jpeg" alt="UMMTO" style="width: 80px; height: 80px; border-radius: 20%;" class="logo" />
   </div>
