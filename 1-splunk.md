@@ -32,7 +32,7 @@ process (to review the changes and understand the improvements made).
   The clean form is the ready-to-submit version.
   All edits and enhancements have been incorporated seamlessly.
 
-
+<h5>Drop me a line to receive a quote </h5>
 
 <ul class="actions">
 <li><a href="/" class="button next scrolly">Back</a></li>
