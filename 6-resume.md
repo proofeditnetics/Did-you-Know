@@ -21,6 +21,15 @@ A more traditional CV/Profile can be provided upon request. In the meantime, che
 
 <hr class="major" />
 
+## Professional Journey
+- Kaplan International Pathways
+- Conferencia Ventana.
+- MB Cybernetics LTD.
+- Servia Road PM Limited.
+- UMMTO
+
+ <hr class="major" />
+
 ## Education
 
 University of Leeds, UK
@@ -31,15 +40,6 @@ M.A. in Language and Culture of English-Speaking Countries, and Media.
 
 University of Tizi-Ouzou, Algeria
 B.A. in English Language, Literature and History.
- 
- <hr class="major" />
-
-## Professional Journey
-- Kaplan International Pathways
-- Conferencia Ventana.
-- MB Cybernetics LTD.
-- Servia Road PM Limited.
-- UMMTO
 
 
 <hr class="major" />
