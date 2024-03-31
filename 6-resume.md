@@ -35,6 +35,9 @@ A more traditional CV/Profile can be provided upon request. In the meantime, che
     <img src="../assets/images/mbc.jpeg" alt="MB Cybernetics LTD" style="width: 80px; height: 80px; border-radius: 20%;" class="logo" />
     <img src="../assets/images/Austin.jpeg" alt="Servia Road PM Limited" style="width: 80px; height: 80px; border-radius: 20%;" class="logo" />
     <img src="../assets/images/UMMTO.jpeg" alt="UMMTO" style="width: 80px; height: 80px; border-radius: 20%;" class="logo" />
+  <img src="../assets/images/leedsuni.jpeg" alt="LeedsUni" style="width: 80px; height: 80px; border-radius: 20%;" class="logo" />
+  <img src="../assets/images/canterbury.png" alt="CanterburyCCU" style="width: 80px; height: 80px; border-radius: 20%;" class="logo" />
+  <img src="../assets/images/bookwormth.jpeg" alt="Bookwormth" style="width: 80px; height: 80px; border-radius: 20%;" class="logo" />
   </div>
 
  <hr class="major" />
