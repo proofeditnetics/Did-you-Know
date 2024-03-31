@@ -22,11 +22,14 @@ A more traditional CV/Profile can be provided upon request. In the meantime, che
 <hr class="major" />
 
 ## Professional Journey
-- Kaplan International Pathways
+- Kaplan International Pathways.
 - Conferencia Ventana.
 - MB Cybernetics LTD.
 - Servia Road PM Limited.
-- UMMTO
+- Leeds University.
+- Canterbury Christ Church University.
+- Book wOrmTH.
+- UMMTO.
   
 <div id="logoBanner">
     <img src="../assets/images/KAplan.jpeg" alt="Kaplan International Pathways" style="width: 80px; height: 80px; border-radius: 20%;" class="logo" />
@@ -44,13 +47,11 @@ A more traditional CV/Profile can be provided upon request. In the meantime, che
 
 ## Education
 
-University of Leeds, UK
+- University of Leeds, UK
 Doctor of Philosophy- PhD, English and Francophone Literature and Performance studies.
-
-University of Tizi-Ouzou, Algeria
+- University of Tizi-Ouzou, Algeria
 M.A. in Language and Culture of English-Speaking Countries, and Media.
-
-University of Tizi-Ouzou, Algeria
+- University of Tizi-Ouzou, Algeria
 B.A. in English Language, Literature and History.
 
 
